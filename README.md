@@ -39,5 +39,5 @@ void printNameCourse(){
 		
 	}
 	```
-	![screenshot](https://github.com/KyleRey/LBYEC72-EK2-Practice/blob/master/screenshot/Capture.PNG)
+	![screenshot](https://github.com/KyleRey/LBYEC72-EK2-Practice/blob/master/screenshot/Capture.PNG?raw=true)
 
